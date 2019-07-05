@@ -27,6 +27,7 @@ module.exports = function (ctx) {
         'QItem',
         'QItemSection',
         'QItemLabel',
+        'QSeparator',
         'QAvatar',
         'QLayout',
         'QHeader',

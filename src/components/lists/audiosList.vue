@@ -2,7 +2,7 @@
   <div class="row q-col-gutter-lg full-width">
     <div
       v-for="(audio, index) in audioList"
-      :key="index"
+      :key="index + audio.label"
       class="col-xs-12 col-sm-6 col-md-4 col-lg-4"
     >
       <play-button

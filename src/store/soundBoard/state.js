@@ -62,6 +62,61 @@ export default {
     },
     {
       category: 'games',
+      label: 'Cai no mato que essa merda vai explodir',
+      source: 'statics/audios/games/blow.wav',
+    },
+    {
+      category: 'games',
+      label: 'Sai for que essa porra vai explodir',
+      source: 'statics/audios/games/blow copy.wav',
+    },
+    {
+      category: 'games',
+      label: 'Consegui desarmar a bagaça',
+      source: 'statics/audios/games/bombdef.wav',
+    },
+    {
+      category: 'games',
+      label: 'Pacote ta entregue',
+      source: 'statics/audios/games/bombpl copy.wav',
+    },
+    {
+      category: 'games',
+      label: 'Eu ativei a bomba',
+      source: 'statics/audios/games/bombpl.wav',
+    },
+    {
+      category: 'games',
+      label: 'Anda logo porra',
+      source: 'statics/audios/games/com_go.wav',
+    },
+    {
+      category: 'games',
+      label: 'Preciso de ajuda',
+      source: 'statics/audios/games/ct_backup.wav',
+    },
+    {
+      category: 'games',
+      label: 'Oia a bomba',
+      source: 'statics/audios/games/ct_fireinhole.wav',
+    },
+    {
+      category: 'impact',
+      label: 'Se fudeu',
+      source: 'statics/audios/impact/enemydown.wav',
+    },
+    {
+      category: 'impact',
+      label: 'Me tira daqui por favor',
+      source: 'statics/audios/impact/hos2.wav',
+    },
+    {
+      category: 'impact',
+      label: 'Tranquilidade',
+      source: 'statics/audios/impact/roger.wav',
+    },
+    {
+      category: 'games',
       label: 'Wololo',
       source: 'statics/audios/games/wololo.mp3',
     },
