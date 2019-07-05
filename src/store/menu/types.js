@@ -1,0 +1,3 @@
+export default {
+  ADD_MENU_TO_SIDEDRAWER: 'ADD_MENU_TO_SIDEDRAWER',
+};

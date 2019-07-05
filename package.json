@@ -1,0 +1,39 @@
+{
+  "name": "instantfun",
+  "version": "0.0.1",
+  "description": "A SoundBoard App for instant Jokes on friends and collegues",
+  "productName": "Instant Fun SoundBoard",
+  "cordovaId": "com.heitorramon.instantfun",
+  "author": "Heitor Ramon Ribeiro <heitor.ramon@gmail.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue src",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.2.1",
+    "axios": "^0.18.1",
+    "quasar": "^1.0.0",
+    "vue-i18n": "^8.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-typescript": "^1.0.0-alpha.14",
+    "@types/node": "11.9.5",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
