@@ -55,12 +55,8 @@
         const audioContext = new BrowserAudioContext();
         const request = new XMLHttpRequest();
         if (this.audioSource) {
-          try {
-            this.stop();
-            return;
-          } catch (err) {
-            console.error(err);
-          }
+          this.stop();
+          return;
         }
         this.audioSource = audioContext.createBufferSource();
         this.audioSource.connect(audioContext.destination);
