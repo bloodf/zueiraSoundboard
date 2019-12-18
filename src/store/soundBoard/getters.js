@@ -1,3 +1,3 @@
-export const getAudiosByCategory = state => category => state
+export const getAudiosByCategory = (state) => (category) => state
   .audios
-  .filter(a => a.category === category);
+  .filter((a) => a.category === category);
