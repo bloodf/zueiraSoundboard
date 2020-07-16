@@ -242,7 +242,7 @@ export default {
     },
     {
       category: 'tv',
-      label: 'No Ceu tem pão?',
+      label: 'Que Pena Você Errou!',
       source: 'statics/audios/tv/quepena.mp3',
     },
     {
