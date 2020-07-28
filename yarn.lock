@@ -1132,10 +1132,10 @@
     user-home "2.0.0"
     validate-npm-package-name "3.0.0"
 
-"@quasar/extras@^1.3.3":
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/@quasar/extras/-/extras-1.3.3.tgz#4eade1e9ad4087ec05bee676d2e2cfb5c30c1810"
-  integrity sha512-xRXoIl0ZtRjQbTt6iLsvLMMOy8nyroeh2bahDlQmF14dkIU+gKQqKH7pMyn5as9xJq+Vubyw6957rbyasa8WOQ==
+"@quasar/extras@^1.9.1":
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/@quasar/extras/-/extras-1.9.1.tgz#4edd44920f92185a9c45aea4dac2f28c44913a57"
+  integrity sha512-E5dLcljogPs/X/a7SlEcgLKnknglKwA6tB4DkWIDoJSW1HgANlmosQelhUGhIVx0UILaz+MxAy+pW2q09AXHlA==
 
 "@quasar/fastclick@1.1.4":
   version "1.1.4"
